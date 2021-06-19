@@ -1,0 +1,4 @@
+WPU RESOLUTION
+- Consistent for working in new company
+- Consistent for learning GIT
+- Consistent for learning robot framework
