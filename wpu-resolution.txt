@@ -2,5 +2,5 @@ WPU RESOLUTION
 - Consistent for working in new company
 - Consistent for learning GIT
 - Consistent for learning robot framework
-- Meet more new people
 - Get more new project 
+- Try make a different project than usual
